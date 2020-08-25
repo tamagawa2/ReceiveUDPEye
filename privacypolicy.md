@@ -18,6 +18,10 @@ Link to privacy policy of third party service providers used by the app
 
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 
+**TrueDepth API**
+
+The Service also makes use of automatically collected information using the device camera and the TrueDepth API provided by Apple. The only use of this information is to track the user’s eyes and face so that the user can simulate mouse movement by moving their eyes. None of the information collected by the TrueDepth API ever leaves the Service nor is it persistently stored on the Service.
+
 **Log Data**
 
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
