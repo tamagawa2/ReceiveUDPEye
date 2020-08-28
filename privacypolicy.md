@@ -20,7 +20,7 @@ Link to privacy policy of third party service providers used by the app
 
 **TrueDepth API**
 
-The Service also makes use of automatically collected information using the device camera and the TrueDepth API provided by Apple. The only use of this information is to track the user’s eyes and face so that the user can simulate mouse movement by moving their eyes. None of the information collected by the TrueDepth API ever leaves the Service, nor is it persistently stored on the devices.
+The Service also makes use of automatically collected information using the device camera and the TrueDepth API provided by Apple. The only use of this information is to track the user’s eye coordinates. The information is shown on the screen of iPhone or mac, or it is used to simulate mouse movement on PC. None of the information collected by the TrueDepth API ever leaves the Service, nor is it persistently stored on the devices.
 
 **Log Data**
 
